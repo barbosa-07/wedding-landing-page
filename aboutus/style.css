@@ -42,3 +42,8 @@ font-weight: 300;
 .img-div-about-us img{
    
 }
+.design-in-background{
+    position:absolute;   
+    top: 550px;
+    right: 0;
+}
