@@ -1,4 +1,4 @@
-# weeding-landing-page
+# weedding-landing-page
 
 ## design link
 [Figma design](https://www.figma.com/design/l2IgOsREMXKP3DqrnnkSIq/Wedding-website-for-Practice?node-id=0-1&p=f&t=o0iBOBvhVZYWGj2v-0)
