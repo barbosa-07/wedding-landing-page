@@ -1,7 +1,7 @@
 # weeding-landing-page
 
 ## desingn link
-(https://www.figma.com/design/l2IgOsREMXKP3DqrnnkSIq/Wedding-website-for-Practice?node-id=0-1&p=f&t=o0iBOBvhVZYWGj2v-0) [Figma design]
+[Figma design](https://www.figma.com/design/l2IgOsREMXKP3DqrnnkSIq/Wedding-website-for-Practice?node-id=0-1&p=f&t=o0iBOBvhVZYWGj2v-0)
 
 ## Steps:
 1. clone the repository
