@@ -12,5 +12,7 @@
 ``` git push --set-upstream origin branch-name ```
 3. pull latest changes from main
 ``` checkout to main branch & then pull
+4. pull command
+``` git pull ```
 
 
