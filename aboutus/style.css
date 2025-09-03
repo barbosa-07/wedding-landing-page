@@ -1,16 +1,16 @@
 body{
     background-color: rgba(196, 199, 187, 1);
 }
-.parent-div-about-us{
+.about-us__container{
     display: flex;
     justify-content: center;
 }
-.text-div-about-us{
+.about-us__text{
     width: 400px;
    
     text-align: left;
 }
-.h1-about-us{
+.about-us__heading{
     text-align: center;
   font-family: "Bodoni Moda", serif;
   font-optical-sizing: auto;
@@ -20,7 +20,7 @@ body{
   line-height: 70px;
   color: rgba(80, 104, 87, 1);
 }
-.about-us-heading-span{
+.about-us__heading span{
 font-weight: 300;
   font-style: italic;
   font-size: 64px;
@@ -29,10 +29,10 @@ font-weight: 300;
   font-family: "Bodoni Moda", serif;
 
 }
-.img-div-about-us{
+.about-us__image{
     width: 690px;
 }
-.text-div-about-us p{
+.about-us__text p{
    color: rgba(102, 124, 109, 1);
    font-family: "Bodoni Moda", serif;
    font-style: regular;
@@ -40,10 +40,8 @@ font-weight: 300;
    line-height: 32px;
    font-size: 24px;
 }
-.img-div-about-us img{
-   
-}
-.design-in-background{
+
+.about-us__backgroundDesign{
     position:absolute;   
     top: 550px;
     right: 0;
